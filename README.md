@@ -1,8 +1,7 @@
 # msgDeleter
-A lightweight python script to mass delete all messages from a server or DM
 
 ## Description 
-Mass delete your messages from any server or DM on discord in seconds with just one command!
+A lightweight discord selfbot to mass delete your messages from any server or DM on discord in seconds with just a single command
 
 
 ## Installation 
