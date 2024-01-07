@@ -1,7 +1,7 @@
-# msgDeleter
+# Discord Mass Message Remover
 
 ## Description 
-A lightweight discord selfbot to mass delete your messages from any server or DM on discord in seconds with just a single command
+A lightweight discord tool to mass delete your messages from any server or DM on discord in seconds with just a single command
 
 
 ## Installation 
