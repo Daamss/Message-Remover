@@ -1,13 +1,19 @@
 # msgDeleter
-
+A lightweight python script to mass delete all messages from a server or DM
 
 ## Description 
 Mass delete your messages from any server or DM on discord in seconds with just one command!
 
 
 ## Installation 
-Install the requirements.txt file, input your discord token in the script, and start msgRemover.py!
-
+1. Download The repo
+2. Install python v3.10.9 - Anything above this version WILL *NOT* WORK
+3. Install all script requirements with *pip install -r requirements.txt*
+4. Get your discord token. Do *NOT* give this out to anyone. This will simply be used for the script and the script *ONLY*
+5. Put the token in the token variable in the script (It is commented for easy access)
+6. Run the script
+7. Type !clean in any server channel or DM you want to mass delete messages in
+8. Watch the magic happen!
 
 ## Usage 
 Go into any server DM you have messages in and run !clean, and it will remove all messages sent in that channel or DM in seconds.
