@@ -18,6 +18,9 @@ A lightweight discord tool to mass delete your messages from any server or DM on
 ## Usage 
 Go into any server DM you have messages in and run your command and the bot will remove all messages sent in that channel or DM in seconds.
 
+*Note:*
+In the case that you get rate limited, change the time values in the script to slow down or speed up the deletion of messages
+
 
 ## License 
 
