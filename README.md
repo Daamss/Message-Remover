@@ -16,7 +16,7 @@ A lightweight discord tool to mass delete your messages from any server or DM on
 9. Watch the magic happen!
 
 ## Usage 
-Go into any server DM you have messages in and run !clean, and it will remove all messages sent in that channel or DM in seconds.
+Go into any server DM you have messages in and run your command and the bot will remove all messages sent in that channel or DM in seconds.
 
 
 ## License 
