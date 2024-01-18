@@ -41,6 +41,6 @@ async def on_message(message):
                     await asyncio.sleep(0.6)  # Change how fast messages should be deleted for servers
 
 
-discord = "https://discord.gg/Nv57hscasX"
+discord = "https://discord.gg/D5ghz8C4gq"
 
 client.run(token, bot=False)
