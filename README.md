@@ -25,6 +25,6 @@ In the case that you get rate limited, change the time values in the script to s
 ## License 
 
 
-Add ._bam on discord for any questions, concerns, or general bs
+Add ohbam. on discord for any questions, concerns, or general bs
 
 
